@@ -1,0 +1,10 @@
+D:\Проекты VS\Stars Flying\Stars Flying\bin\Debug\Stars Flying.exe.config
+D:\Проекты VS\Stars Flying\Stars Flying\bin\Debug\Stars Flying.exe
+D:\Проекты VS\Stars Flying\Stars Flying\bin\Debug\Stars Flying.pdb
+D:\Проекты VS\Stars Flying\Stars Flying\obj\Debug\Stars Flying.csprojAssemblyReference.cache
+D:\Проекты VS\Stars Flying\Stars Flying\obj\Debug\Stars_Flying.Form1.resources
+D:\Проекты VS\Stars Flying\Stars Flying\obj\Debug\Stars_Flying.Properties.Resources.resources
+D:\Проекты VS\Stars Flying\Stars Flying\obj\Debug\Stars Flying.csproj.GenerateResource.cache
+D:\Проекты VS\Stars Flying\Stars Flying\obj\Debug\Stars Flying.csproj.CoreCompileInputs.cache
+D:\Проекты VS\Stars Flying\Stars Flying\obj\Debug\Stars Flying.exe
+D:\Проекты VS\Stars Flying\Stars Flying\obj\Debug\Stars Flying.pdb
